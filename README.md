@@ -2,6 +2,8 @@
 
 Flask REST webservice. Este serviço exibe a média de precipitação e a máxima temperatura da lista de cidades cadastradas.
 
+Projeto desenvolvido para processo seletivo.
+
 ## Executar
 
 Para funcionamento do acesso a API climatempo obtenha uma API_KEY e adicione-a no arquivo `config.py`.
